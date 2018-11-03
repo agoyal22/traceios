@@ -11,7 +11,7 @@ import SceneKit
 import ARKit
 
 class ViewController: UIViewController, ARSCNViewDelegate {
-
+    //Test: getchi major
     @IBOutlet var sceneView: ARSCNView!
     
     override func viewDidLoad() {
